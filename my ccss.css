@@ -1,0 +1,66 @@
+.picturis {
+	border-radius: 50%
+}
+
+
+	hr.new5 {
+			border: 5px solid black;
+			border-radius: 5px;
+			}
+	
+	div.gallery {
+			margin: 5px;
+			border: 1px solid #ccc;
+			float: left;
+			width: 180px;
+}
+
+	sdiv.gallery:hover {
+			border: 1px solid #777;
+}
+
+	div.gallery img {
+			width: 100%;
+			height: auto;
+}
+
+	div.desc {
+			padding: 15px;
+			text-align: center;
+}
+
+	p.ex1 {
+			margin-left: 60px;
+			margin-right: 120px;
+		  }
+		  
+	p.b {
+			line-height: 1.6;
+		}
+		
+	.bg {
+		background-image: url("cover.png");
+		height: 100%; 
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		}
+
+		
+			
+
+
+		<div>
+			<img  src="Logo/home-run.png" align="center" width="50" height="50"></b>
+			<img  src="Logo/image.png" align="center" width="50" height="50"></b>
+			<img  src="Logo/phone.png" align="center" width="50" height="50"></b>
+		</div>
+		
+		<div>
+			<b style="color:#404040"> My bio </b>
+			<b style="color:#404040"> Images </b>
+			<b style="color:#404040"> Contact Me </b> 
+			
+			
+		
+		
